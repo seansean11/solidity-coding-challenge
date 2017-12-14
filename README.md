@@ -1,5 +1,7 @@
 # Solidity Coding Challenge
 
+**GOAL**: Make `solidity_coding_challenge.sol` a secure and tidy contract.
+
 ## Contract Notes
 - Prefer 4 space indents (Solidity style guide)
 - Prefer more explicit types ex: `uint` -> `uint256`
