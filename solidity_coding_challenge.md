@@ -1,4 +1,4 @@
-# Lunyr Coding Challenge
+# Solidity Coding Challenge
 
 ## Contract Notes
 - Prefer 4 space indents (Solidity style guide)
